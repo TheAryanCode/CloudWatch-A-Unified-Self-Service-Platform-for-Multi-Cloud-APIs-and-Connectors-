@@ -55,7 +55,8 @@ graph TD
 
 ## 📺 Live Demo
 
-![Live Demo](https://imgur.com/a/arMfH3w)
+<br>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmtwMTVibGs5OHNqNWpobjB6d2cxcWNta2szZmU2c3ZxcWZ3a3QxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/37pSXTWAWyCSOOXFN6/giphy.gif" />
 
 ## 📝 License
 
