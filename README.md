@@ -55,7 +55,7 @@ graph TD
 
 ## 📺 Live Demo
 
-Coming Soon! Stay tuned for our interactive demo showcasing the power of unified cloud management.
+![Live Demo](https://imgur.com/a/arMfH3w)
 
 ## 📝 License
 
