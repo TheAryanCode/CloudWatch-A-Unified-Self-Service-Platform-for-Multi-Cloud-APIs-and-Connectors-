@@ -22,25 +22,6 @@ graph TD
     C --> E[Azure Services]
     C --> F[GCP Services]
 ```
-## 🚀 Getting Started
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/cloud-connector-dashboard.git
-```
-2. Install dependencies:
-```bash
-cd cloud-connector-dashboard
-npm install
-```
-3. Configure your cloud credentials:
-```bash
-cp .env.example .env
-# Add your cloud credentials to .env
-```
-4. Run the development server:
-```bash
-npm run dev
-```
 ## 🛠️ Tech Stack
 - **Frontend**: Next.js 13, TailwindCSS, shadcn/ui
 - **Backend**: Flask (Python), FastAPI
